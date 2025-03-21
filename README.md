@@ -1,2 +1,2 @@
 # nextjs-dashboard-app
-This project is creating for learning the Nextjs.
+This project is created for learning the Nextjs.
